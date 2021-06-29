@@ -6,10 +6,4 @@ console.log("remote changed");
 
 console.log("remote changed");
 
-console.log("remote changed");
-
-console.log("remote changed");
-
-console.log("remote changed");
-
-console.log("remote changed");
+console.log("dev changed ")
